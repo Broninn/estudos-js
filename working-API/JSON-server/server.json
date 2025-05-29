@@ -1,20 +1,24 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Mouse",
-            "price": 10.99
-        },
-        {
-            "id": 2,
-            "name": "Teclado",
-            "price": 150.99
-        },
-        {
-            "id": 3,
-            "name": "Monitor",
-            "price": 520.98
-        }
-
-    ]
+  "products": [
+    {
+      "id": "1",
+      "name": "Mouse",
+      "price": 10.99
+    },
+    {
+      "id": "2",
+      "name": "Teclado",
+      "price": 150.99
+    },
+    {
+      "id": "3",
+      "name": "Monitor",
+      "price": 520.98
+    },
+    {
+      "id": "1748540550598",
+      "productName": "gamificacao",
+      "productPrice": 126.65
+    }
+  ]
 }
